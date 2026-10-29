@@ -1,3 +1,3 @@
-**GPU-Accelerated Differentiable Evolutionary Routing (GADER)**
+**Where do Diffusion Models lack?**
 --
-It is a technique which utilizes Genetic Algorithm to address large-scale Electric Vehicles Routing Problem.
+It is a research on novel techniques which intend to introduce new changes to the conventional diffusion model architecture.
